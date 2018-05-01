@@ -8,7 +8,7 @@ These firmware components and corresponding example applications can be download
 The Firmware Catalog is a standalone executable program that supports Microsemi SoftConsole toolchain targeting the Mi-V processors. 
 The Firmware Catalog streamlines locating and generating firmware that is compatible with Intellectual Property (IP) cores used in Microsemi FPGA designs. Firmware can also be delivered through SmartDesign within the Libero environment.
 
-For more details of all the processors and toolchains supported by Firmware catalog refer: [Firmware catalog]((https://www.microsemi.com/product-directory/design-tools/4880-firmware-catalog#overview))
+For more details of all the processors and toolchains supported by Firmware catalog refer: [Firmware catalog](https://www.microsemi.com/product-directory/design-tools/4880-firmware-catalog#overview)
 
 Below is the view of Firmware catalog user interface.
 
