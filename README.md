@@ -1,5 +1,5 @@
 # Mi-V-Firmware
-Mi-V Firmware contains the firmware components that would help you develop your application running on the Mi-V soft processor.
+Mi-V-Firmware are the software components that would help you develop applications targeting the Mi-V soft processor.
 - RISC-V HAL        - Hardware abstraction layer for Mi-V soft processors
 - Software drivers - Software drivers for [Microsemi IP Cores](http://soc.microsemi.com/products/ip/search/results.aspx?n=&kw=&pf=491%3bproduct%3aDirectCores&fn=none&pv=none&mk=none&ev=0&rd=0&evt=0)
 
